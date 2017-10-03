@@ -1,0 +1,4 @@
+if(null!=document.getElementById("post_view_count")){document.getElementById("post_view_count").innerHTML="113,516";}if(null!=document.getElementById("stb_view_count")){document.getElementById("stb_view_count").innerHTML="113,516";}var wp_hash="deaf0b179b1869ed9c4c427b67c5de54";
+		var wp_comment_author=getCookie("comment_author_" + wp_hash);
+		var wp_comment_email=getCookie("comment_author_email_" + wp_hash);
+		var wp_comment_url=getCookie("comment_author_url_" + wp_hash);if(typeof(setCommentForm)=="function"){setCommentForm(wp_comment_author,wp_comment_email,wp_comment_url,"TjsPo14091971340");}
